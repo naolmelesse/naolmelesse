@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naolmelesse
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Java and Web development
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 You can reach me at naolmelesse91@gmail.com
