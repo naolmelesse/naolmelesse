@@ -19,7 +19,7 @@
 <br/><br/><br/><br/>
 
 <h2 align="center"> 👨‍💻 About Me</h2>
-I'm a passionate web developer who loves to code, collaborate, and create. 🚀 I enjoy solving complex problems and crafting elegant solutions. When I'm not typing away at my keyboard, you can often find me lost in the world of music 🎶 or exploring the latest tech trends.
+I'm a web developer who loves to code, collaborate, and create. 🚀 I enjoy solving complex problems and crafting elegant solutions. When I'm not typing away at my keyboard, you can often find me lost in the world of music 🎶 or exploring the latest tech trends.
 
 <h2 align="center">🔧 Technologies & Tools </h2>
 
