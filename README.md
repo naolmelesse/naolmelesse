@@ -14,12 +14,12 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach me at naolmelesse91@gmail.com
 </p>
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <h2 align="center"> 👨‍💻 About Me</h2>
 I'm a passionate web developer who loves to code, collaborate, and create. 🚀 I enjoy solving complex problems and crafting elegant solutions. When I'm not typing away at my keyboard, you can often find me lost in the world of music 🎶 or exploring the latest tech trends.
 
-## 🔧 Technologies & Tools
+<h2 align="center">🔧 Technologies & Tools </h2>
 
 Here are some of the programming languages and tools I've worked with, along with their logos:
 
@@ -49,17 +49,17 @@ Here are some of the programming languages and tools I've worked with, along wit
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-## 💼 Looking to Collaborate?
+<h2 align="center"> 💼 Looking to Collaborate?</h2>
 
 I'm always open to collaborating on exciting projects. If you're working on something interesting and need a helping hand, feel free to reach out. Let's build something amazing together! 🤝
 
-## 🎵 Fun Fact
+<h2 align="center"> 🎵 Fun Fact </h2>
 
 Fun Fact: I'm a music addict! From coding to relaxing, music is always there to set the mood. 
 - 🎧 Here are some of favourite jams for coding
 - const MY_MUSIC = [ [lofiCafe](https://www.lofi.cafe/), [freeCodeCampRadio](https://coderadio.freecodecamp.org/), [devTunes](https://radio.madza.dev/) ]
 - MY_MUSIC.push( 'your suggestions' )
-## 📫 Get in Touch
+<h2 align="center"> 📫 Get in Touch </h2>
 
 You can reach me on [LinkedIn](https://www.linkedin.com/in/naol-melesse-706585226/). Let's connect and chat about tech, music, or anything under the sun! ☀️
 
