@@ -15,8 +15,7 @@
  
   <br/><br/><br/><br/>
   
-- 👀 I’m interested Web and Java development
-- 🌱 I’m a Computer Engineer
+- 👀 I’m interested in Web and Java development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach me at naolmelesse91@gmail.com
   
