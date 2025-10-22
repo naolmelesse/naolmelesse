@@ -17,6 +17,7 @@
   
 </p>
 <br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <h2 align="center"> 👨‍💻 About Me</h2>
 A software enginerer who loves building full-stack web applications that solve real problems for businesses. Specializing in the MERN stack, I transform ideas into polished, production-ready solutions. With experience as both a software engineer and QA engineer, I bring a quality-first approach to development. Currently pursuing my MS in Computer Science while staying on top of the latest tech trends.
