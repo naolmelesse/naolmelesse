@@ -13,38 +13,23 @@
 </details>
 <p>
  
-  <br/><br/><br/><br/>
-  
-- 👀 I’m interested in Web and Java development
-- 💞️ I’m looking to collaborate on interesting projects
 - 📫 You can reach me at naolmelesse91@gmail.com
   
 </p>
 <br/><br/><br/><br/>
 
 <h2 align="center"> 👨‍💻 About Me</h2>
-I'm a web developer who loves to code, collaborate, and create. 🚀 I enjoy solving complex problems and crafting elegant solutions. When I'm not typing away at my keyboard, you can often find me lost in the world of music 🎶 or exploring the latest tech trends.
+A software enginerer who loves building full-stack web applications that solve real problems for businesses. Specializing in the MERN stack, I transform ideas into polished, production-ready solutions. With experience as both a software engineer and QA engineer, I bring a quality-first approach to development. Currently pursuing my MS in Computer Science while staying on top of the latest tech trends.
 
 <h2 align="center">🔧 Technologies & Tools </h2>
 
 Here are some of the programming languages and tools I've worked with:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+LANGUAGES_AND_FRAMEWORKS = ['ReactJs', 'NextJs', 'JavaScript' 'TypeScript', 'Java', 'NodeJs', 'ExpressJs', 'PostgreSQL', 'MongoDB', 'Tailwind', 'Styled components']
+
+TOOLS = ['git', 'Github', 'Cypress', 'PlayWright', 'Prisma', 'Stripe']
+
+
 
 <h2 align="center"> 💼 Looking to Collaborate?</h2>
 
