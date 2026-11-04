@@ -20,6 +20,7 @@ Having worked as both a software engineer and a QA engineer, I bring a **quality
 
 Across my projects I've collaborated on:
 
+- 📟 System and arhcitecture design
 - 🎨 Design and user experience
 - 🗄️ Database design
 - 🔌 API development
